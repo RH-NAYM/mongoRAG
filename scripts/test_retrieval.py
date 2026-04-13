@@ -1,6 +1,7 @@
 import asyncio
 from app.rag import retrieve
 from app.embedder import get_embedding
+from app.llm import generate_answer
 
 async def test():
     while True:
@@ -25,6 +26,8 @@ async def test():
             continue
 
         for i, r in enumerate(results):
-            print(f"{i+1}. {r}")
+            print('<<<<<<<<<<', r, '>>>>>>>>>>')
+            answer = generate_answer(query, r)
+            print(f"{i+1}. {answer}")
 
 asyncio.run(test())

@@ -11,3 +11,4 @@ scikit-learn
 accelerate
 transformers
 redis
+python-dotenv

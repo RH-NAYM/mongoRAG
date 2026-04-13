@@ -1,0 +1,716 @@
+[
+    {
+        "text": "RAG pipeline improves answer quality by retrieving relevant documents before generation.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "PostgreSQL একটি relational database যা SQL ব্যবহার করে data manage করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Django is a full-stack Python framework with built-in ORM and admin panel.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Tokenization হলো text কে ছোট ছোট অংশে ভাগ করার process।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Transformers are deep learning models used in NLP tasks.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Redis একটি in-memory database যা caching এর জন্য ব্যবহার হয়।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "REST API follows stateless communication between client and server.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Fine-tuning হলো pre-trained model কে specific task এর জন্য train করা।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "LangChain helps build LLM-powered applications with chaining and memory.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Indexing হলো data কে search করার জন্য optimize করার process।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "GraphQL allows flexible querying of APIs compared to REST.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Semantic search মানে হলো অর্থ অনুযায়ী data খুঁজে বের করা।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "OpenAI provides APIs for powerful language models.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Normalization হলো data কে standard format এ আনার process।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Flask is a lightweight Python web framework.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Cosine similarity vector এর মধ্যে similarity measure করতে ব্যবহার হয়।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Neural networks are inspired by the human brain structure.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Sharding হলো database কে multiple parts এ ভাগ করার technique।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "WebSockets enable real-time communication between client and server.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Inference হলো trained model ব্যবহার করে prediction করা।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "BERT is a transformer-based model for NLP tasks.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "ACID properties database transaction এর reliability নিশ্চিত করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Async programming improves performance in I/O bound tasks.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Overfitting হলো model training data তে বেশি fit হয়ে যাওয়া।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "GPT models generate human-like text responses.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Primary key একটি unique identifier database table এর জন্য।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Microservices architecture breaks apps into small services.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Data augmentation training data বাড়াতে সাহায্য করে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "LLM stands for Large Language Model.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Foreign key table এর মধ্যে relationship তৈরি করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Gunicorn is a Python WSGI HTTP server.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Hyperparameter tuning model performance improve করে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Diffusion models are used in image generation.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Replication database availability বাড়ায়।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Celery is used for background task processing in Python.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Gradient descent optimization algorithm হিসেবে ব্যবহৃত হয়।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Zero-shot learning allows models to predict unseen tasks.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Index ব্যবহার করলে query performance দ্রুত হয়।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Docker helps containerize applications.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Attention mechanism transformer model এর গুরুত্বপূর্ণ অংশ।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Multimodal models process text, image, and audio together.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Backup database data loss থেকে রক্ষা করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Nginx is a high-performance web server.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Reinforcement learning reward-based training approach।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Token limit restricts input size for LLMs.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Query optimization database performance improve করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "FastAPI async support এর জন্য খুব দ্রুত।",
+        "metadata": {
+            "source": "backend",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Model deployment production environment এ model চালানো।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Embeddings are numerical representations of text.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Schema database structure define করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Load balancing distributes traffic across servers.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "RAG systems reduce hallucination by grounding responses in retrieved context.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "SQLite একটি lightweight database যা local storage এর জন্য ব্যবহার হয়।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "API gateway manages requests and routes them to services.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Token limit exceed করলে model input truncate হতে পারে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Prompt engineering improves LLM output quality.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Denormalization performance বাড়ানোর জন্য data duplicate করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Uvicorn is an ASGI server for FastAPI apps.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Few-shot learning example দিয়ে model কে guide করে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Embeddings enable semantic similarity search.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Cluster database multiple node এ distribute হয়।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Middleware processes requests before reaching endpoint.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "NLP হলো Natural Language Processing এর সংক্ষিপ্ত রূপ।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Open-source models can be run locally without API cost.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Join operation multiple table থেকে data combine করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Rate limiting prevents abuse of APIs.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Inference latency কমানো production এ গুরুত্বপূর্ণ।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Vector databases store embeddings for fast retrieval.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Transaction rollback error হলে data restore করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Serverless architecture reduces infrastructure management.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Self-attention mechanism context বুঝতে সাহায্য করে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Hugging Face provides pretrained models and datasets.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Index scan database query দ্রুত করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "gRPC is a high-performance RPC framework.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Loss function model error measure করে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "AutoML automates model selection and tuning.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Deadlock database transaction block করে রাখতে পারে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Caching reduces repeated computation in backend.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Preprocessing data clean করার গুরুত্বপূর্ণ ধাপ।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Tokenization splits text into smaller units.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Schema migration database structure update করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Authentication verifies user identity.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Regularization overfitting কমাতে সাহায্য করে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Transfer learning uses knowledge from pretrained models.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Constraint database data validity নিশ্চিত করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Logging helps debug backend applications.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Batch processing একসাথে অনেক data process করে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "LLMs can be fine-tuned for domain-specific tasks.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Partitioning database performance improve করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "CI/CD automates deployment pipeline.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Encoder-decoder architecture translation tasks এ ব্যবহৃত হয়।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Chatbots use NLP to interact with users.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Trigger database event-based action execute করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Session management tracks user state.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Model evaluation accuracy measure করে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Knowledge distillation reduces model size.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "View virtual table হিসেবে কাজ করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Reverse proxy routes traffic to backend servers.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Feature engineering model performance improve করে।",
+        "metadata": {
+            "source": "ai",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Multilingual models support multiple languages.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    },
+    {
+        "text": "Stored procedure database logic execute করে।",
+        "metadata": {
+            "source": "db",
+            "lang": "bn"
+        }
+    },
+    {
+        "text": "Horizontal scaling adds more machines.",
+        "metadata": {
+            "source": "backend",
+            "lang": "en"
+        }
+    }
+]

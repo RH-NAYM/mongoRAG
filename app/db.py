@@ -1,13 +1,11 @@
-# app/db.py
 from motor.motor_asyncio import AsyncIOMotorClient
+from dotenv import load_dotenv
 import os
 
-# client = AsyncIOMotorClient(os.getenv("MONGO_URI"))
-client = AsyncIOMotorClient("mongodb+srv://rakibhedigital_db_user:gv5WvhaMGMlA8hJh@learningsession01.3ebpl24.mongodb.net")
+load_dotenv()
 
-# print(client)
-db = client["rag_db"]
-collection = db["documents"]
+CLIENT = AsyncIOMotorClient(os.getenv("MONGO_URI"))
 
+DB = CLIENT["testing_rag_pipeline"]
 
-# print(collection)
+COLLECTION = DB["data"]

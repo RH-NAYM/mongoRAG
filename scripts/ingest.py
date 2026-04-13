@@ -1,34 +1,32 @@
 # scripts/ingest.py
 import asyncio
-from app.db import collection
+from app.db import COLLECTION
 from app.embedder import get_embedding
+import json
 
+
+
+
+
+
+with open("utils/data.json", 'r') as f:
+    data = json.load(f)
+
+
+
+
+"""
 data = [
     {
-        "text": "RAG stands for Retrieval Augmented Generation. It combines retrieval with LLM generation.",
-        "metadata": {"source": "ai", "lang": "en"}
-    },
-    {
-        "text": "MongoDB একটি NoSQL database যা document-based storage ব্যবহার করে।",
-        "metadata": {"source": "db", "lang": "bn"}
-    },
-    {
-        "text": "FastAPI is a high-performance Python web framework for building APIs.",
-        "metadata": {"source": "backend", "lang": "en"}
-    },
-    {
-        "text": "Embedding হলো text কে vector-এ convert করার একটি process যা semantic search-এ ব্যবহার হয়।",
-        "metadata": {"source": "ai", "lang": "bn"}
-    },
-    {
-        "text": "Vector search helps find similar meaning texts using embeddings instead of keywords.",
-        "metadata": {"source": "ai", "lang": "en"}
-    },
-    {
-        "text": "Ollama ব্যবহার করে local machine-এ LLM run করা যায় without external API.",
-        "metadata": {"source": "llm", "lang": "bn"}
-    },
+        "text": "RAG pipeline improves answer quality by retrieving relevant documents before generation.",
+        "metadata": {
+            "source": "ai",
+            "lang": "en"
+        }
+    }
 ]
+"""
+
 
 async def run():
     docs = []
@@ -36,10 +34,10 @@ async def run():
     for item in data:
         docs.append({
             "text": item["text"],
-            "embedding": get_embedding(item["text"]),  # 🔥 FIX HERE
+            "embedding": get_embedding(item["text"]),
             "metadata": item["metadata"]
         })
 
-    await collection.insert_many(docs)
+    await COLLECTION.insert_many(docs)
 
 asyncio.run(run())
