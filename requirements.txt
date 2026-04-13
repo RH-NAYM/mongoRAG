@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+sentence-transformers
+ollama
+pydantic
+python-dotenv
+numpy
+scikit-learn
+accelerate
+transformers
+redis
